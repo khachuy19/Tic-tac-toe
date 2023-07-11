@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.board {
+  width: 240px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.nextP {
+  margin-bottom: 20px;
+  font-size: 2.4rem;
+  margin-top: 20px;
+}
